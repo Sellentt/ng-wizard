@@ -1,4 +1,6 @@
 # ng-wizard
+The original package (https://github.com/abdulkadirgenc/ng-wizard) seems to be unmaintained, so this package was created to replace it. 
+
 ng-wizard is a stepper / wizard component that you can use in your Angular applications. You can access the sample demo project **[by clicking here](https://ng-wizard.stackblitz.io)**.
 
 ## Screenshots
