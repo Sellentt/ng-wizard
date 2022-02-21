@@ -21,6 +21,8 @@ export class NgWizardModule {
     return {
       ngModule: NgWizardModule,
       providers: [
+        NgWizardService,
+        NgWizardDataService,
         {
           provide: NG_WIZARD_CONFIG_TOKEN,
           useValue: ngWizardConfig
